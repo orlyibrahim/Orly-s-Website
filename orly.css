@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Jim+Nightshade');
+.grow {
+     height:50%;
+     width: 30%;
+}
+.grow:hover {
+        -webkit-transform: scale(0.3);
+        -ms-transform: scale(0.3);
+        transform: scale(0.3);
+}
+.blue {
+    color: #64B5F6;
+    font-family: 'Jim Nightshade', cursive;
+    font-size: 30px;
+}
+.red {
+    color:#EF5350 ;
+}
+body {
+    background-image: url(http://graphicdesignjunction.com/wp-content/uploads/2014/04/000_photoshop-pattern.jpg)
+}

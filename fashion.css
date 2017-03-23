@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina'); 
+.grow {
+     height:50%;
+     width: 30%;
+}
+.grow:hover {
+        -webkit-transform: scale(0.3);
+        -ms-transform: scale(0.3);
+        transform: scale(0.3);
+}
+.pink {
+    color:#EC407A;
+    font-family: 'Baloo Bhaina', cursive;
+}
+.fade
+{
+        opacity:0.5;
+}
+.fade:hover
+{
+        opacity:1;
+}
+body {
+    background-color: #CE93D8;
+}
